@@ -27,6 +27,8 @@ playwright install chromium
 
 Copy `.env.example` to `.env` and adjust if needed — defaults work out of the box.
 
+Runnable examples are in the [`examples/`](examples/) folder.
+
 ---
 
 ## Usage

@@ -54,10 +54,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/intelliscraper"
-Documentation = "https://github.com/yourusername/intelliscraper#readme"
-Repository = "https://github.com/yourusername/intelliscraper.git"
-Issues = "https://github.com/yourusername/intelliscraper/issues"
+Homepage = "https://github.com/CarlosMarchetti/IntelliScraper"
+Documentation = "https://github.com/CarlosMarchetti/IntelliScraper#readme"
+Repository = "https://github.com/CarlosMarchetti/IntelliScraper.git"
+Issues = "https://github.com/CarlosMarchetti/IntelliScraper/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
