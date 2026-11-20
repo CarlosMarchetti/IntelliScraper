@@ -57,6 +57,7 @@ You can also verify stealth behavior programmatically:
 
 ```bash
 python examples/08_stealth_check.py
+```
 
 ---
 
